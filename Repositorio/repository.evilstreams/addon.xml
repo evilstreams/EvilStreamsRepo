@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.evilstreams" name="[COLOR yellow]EvilStreams Repo[/COLOR] Repo" version="1.0" provider-name="DavidHardcore69">
+<addon id="repository.evilstreams" name="[COLOR yellow]EvilStreams Repo[/COLOR]" version="1.0" provider-name="DavidHardcore69">
 <extension point="xbmc.addon.repository" name="EvilStreamsRepo">
 <info>https://raw.githubusercontent.com/evilstreams/EvilStreamsRepo/master/Repositorio/addons.xml</info>
 <checksum>https://raw.githubusercontent.com/evilstreams/EvilStreamsRepo/master/Repositorio/addons.xml.md5</checksum>
